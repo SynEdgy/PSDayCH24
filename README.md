@@ -1,6 +1,6 @@
 # PowerShell Day Switzerland - 27.2.2024
-<p align="right">
-<img src="./media/logo-psdaych.png" style="width:200px;float: right">
+<p align="center">
+<img src="./media/logo-psdaych.png" style="width:150px;">
 </p>
 **What a great day we had!**
 
@@ -12,7 +12,6 @@ We hope you've enjoyed the event and you've learnt something!
 Please find below the links to the session materials.
 
 Feel free to follow our <img src="media/In-Blue-Logo.png.original.png" style="width:13px;vertical-align:middle" href="https://www.linkedin.com/company/synedgy/" /> [SynEdgy LinkedIn](https://www.linkedin.com/company/synedgy/) page to keep in touch and be notified of new content and events!
-<img src="media/gaelcolas_avatar.jpeg" style="width:75px;float:right;border-radius: 50%;vertical-align:middle" href="https://www.linkedin.com/company/synedgy/" />
 
 
 Kind Regards,  
