@@ -2,7 +2,7 @@
 <p align="center">
 <img src="./media/logo-psdaych.png" style="width:150px;">
 </p>
-**What a great day we had!**
+What a great day we had!
 
 [PSDayCH 2024](https://synedgy.com/psdaych) in Lausanne was awesome, we had a blast
 thanks to the speakers coming from across the world to share their knowledge, and to all the attendees who made this event
