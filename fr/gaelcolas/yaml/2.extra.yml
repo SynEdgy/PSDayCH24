@@ -1,0 +1,23 @@
+---
+# il peut y avoir plusieurs documents YAML dans un seul fichier
+
+key: |
+  valeur
+  sur
+  plusieurs
+  lignes
+
+object: {  key1: value1,  key2: value2 }
+# object: {  key1: value1,  key2: value2 }
+
+# Yaml est un superset de JSON...
+# object: other thing
+---
+
+AutreDocument: |
+  autre valeur
+  sur plusieurs lignes
+
+AutreType: >
+  autre valeur
+  sur une seule ligne

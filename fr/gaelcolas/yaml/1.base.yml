@@ -1,0 +1,16 @@
+clef: valeur
+
+tableau:
+  - val1
+  - val2
+
+autreTableau: [val1, val2]
+
+# c'est un commentaire
+
+dictionnaire:
+  clef1: valeur1
+  clef2: valeur2
+  clef3:
+    sousClef31: valeur31
+    sousClef32: valeur32

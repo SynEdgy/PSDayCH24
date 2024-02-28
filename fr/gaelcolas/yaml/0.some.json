@@ -1,0 +1,6 @@
+{
+    "clef": "valeur",
+    "autreClef": {
+      "autreObjet": "autreValeur"
+    }
+}

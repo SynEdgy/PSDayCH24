@@ -1,0 +1,26 @@
+# voici les tricks de ninja
+clef: &labelDeReference
+  prop1: valeur1
+  prop2: valeur2
+
+reference: *labelDeReference
+
+listOfRef:
+  ref1: &ref1
+    prop1: valeur1
+    prop2: valeur2
+  ref2: &ref2
+    prop3: valeur3
+  ref4: &ref3
+    prop4: valeur4
+# commentaire
+
+tableau:
+  - *ref1
+  - *ref2
+  - *ref3
+  - *labelDeReference
+
+OtherKey:
+  someKey: coucou
+  << : *labelDeReference
