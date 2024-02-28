@@ -1,6 +1,7 @@
 # PowerShell Day Switzerland - 27.2.2024
-
-<img src="./media/logo-psdaych.png" style="width:200px;float: right"> 
+<p align="right">
+<img src="./media/logo-psdaych.png" style="width:200px;float: right">
+</p>
 **What a great day we had!**
 
 [PSDayCH 2024](https://synedgy.com/psdaych) in Lausanne was awesome, we had a blast
