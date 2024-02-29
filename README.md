@@ -34,7 +34,7 @@ Gael Colas, Director
 | [`[Follow-Along] PowerShell Universal: Codez votre portail Web en PowerShell`](README.md)| Arnaud Petitjean | 11:00 - 12:45 | FR |
 | [`PSBlazor - A new PowerShell web technology`](README.md)| Adam Driscoll | 14:00 - 14:45 | EN |
 | [`Exchange server : migration hybride à l'aide de PowerShell`](README.md)| Rodrigue Yengo | 14:00 - 14:45 | FR |
-| [`PSPlaceholders a.k.a the jinja tool for PowerShell`](README.md)| Georgi Ivanov | 15:00 - 15:45 | EN |
+| [`PSPlaceholders a.k.a the jinja tool for PowerShell`](https://github.com/gogbg/psdaych2024)| Georgi Ivanov | 15:00 - 15:45 | EN |
 | [`Générer des rapports design avec PSHTML`](README.md)| Stephane van Gulick | 15:00 - 15:45 | FR |
 | [`Empowering M365 Environments with DSC: Control & Documentation via PowerShell`](README.md)| Ryan Bartram | 16:00 - 16:45 | EN |
 | [`IaC: Configuration YAML et manipulation en PowerShell`](fr/gaelcolas/yaml)| Gael Colas | 16:00 - 16:45 | FR |
