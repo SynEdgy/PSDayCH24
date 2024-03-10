@@ -33,8 +33,8 @@ Gael Colas, Director
 | [`[Follow-Along] Build a Service Catalog with PowerShell Universal`]| Adam Driscoll | 11:00 - 12:45 | EN |
 | [`[Follow-Along] PowerShell Universal: Codez votre portail Web en PowerShell`](fr/arnaudpetitjean)| Arnaud Petitjean | 11:00 - 12:45 | FR |
 | [`PSBlazor - A new PowerShell web technology`]| Adam Driscoll | 14:00 - 14:45 | EN |
-| [`Exchange server : migration hybride à l'aide de PowerShell`]| Rodrigue Yengo | 14:00 - 14:45 | FR |
+| [`Exchange server : migration hybride à l'aide de PowerShell`](fr/rodrigueyengo)| Rodrigue Yengo | 14:00 - 14:45 | FR |
 | [`PSPlaceholders a.k.a the jinja tool for PowerShell`](https://github.com/gogbg/psdaych2024)| Georgi Ivanov | 15:00 - 15:45 | EN |
 | [`Générer des rapports design avec PSHTML`](fr/StephaneVanGulick/Introduction%20a%20PSHTML)| Stephane van Gulick | 15:00 - 15:45 | FR |
-| [`Empowering M365 Environments with DSC: Control & Documentation via PowerShell`]| Ryan Bartram | 16:00 - 16:45 | EN |
+| [`Empowering M365 Environments with DSC: Control & Documentation via PowerShell`](en/PSDAY_DSC.pptx)| Ryan Bartram | 16:00 - 16:45 | EN |
 | [`IaC: Configuration YAML et manipulation en PowerShell`](fr/gaelcolas/yaml)| Gael Colas | 16:00 - 16:45 | FR |
