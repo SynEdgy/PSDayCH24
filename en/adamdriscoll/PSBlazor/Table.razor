@@ -1,0 +1,14 @@
+﻿<Table DataSource="$Services">
+   <ChildContent>
+      <PropertyColumn Property="Name" />
+      <PropertyColumn Property="Status">
+         <Alert Message="$context.Status" />
+      </PropertyColumn>
+      <ActionColumn>
+         <Button OnClick="ToggleState">Toggle State</Button>
+      </ActionColumn>
+   </ChildContent>
+   <TitleTemplate>
+      <Text>My Services</Text>
+   </TitleTemplate>
+</Table>

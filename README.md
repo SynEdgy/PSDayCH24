@@ -30,9 +30,9 @@ Gael Colas, Director
 | [`Principes fondamentaux de PowerShell en accéléré`](fr/gaelcolas/fundamentals)| Gael Colas | 9:00 - 10:45 | FR |
 | [`RegEx: Zero to Hero in 45min`](en/iisresetme)| Mathias R. Jessen | 10:00 - 10:45 | EN |
 | [`Introduction aux classes PowerShell`](fr/StephaneVanGulick/Introduction%20aux%20Classes)| Stephane van Gulick | 10:00 - 10:45 | FR |
-| [`[Follow-Along] Build a Service Catalog with PowerShell Universal`]| Adam Driscoll | 11:00 - 12:45 | EN |
+| [`[Follow-Along] Build a Service Catalog with PowerShell Universal`](en/adamdriscoll/ServiceCatalog/) | Adam Driscoll | 11:00 - 12:45 | EN |
 | [`[Follow-Along] PowerShell Universal: Codez votre portail Web en PowerShell`](fr/arnaudpetitjean)| Arnaud Petitjean | 11:00 - 12:45 | FR |
-| [`PSBlazor - A new PowerShell web technology`]| Adam Driscoll | 14:00 - 14:45 | EN |
+| [`PSBlazor - A new PowerShell web technology`](en/adamdriscoll/PSBlazor/)| Adam Driscoll | 14:00 - 14:45 | EN |
 | [`Exchange server : migration hybride à l'aide de PowerShell`](fr/rodrigueyengo)| Rodrigue Yengo | 14:00 - 14:45 | FR |
 | [`PSPlaceholders a.k.a the jinja tool for PowerShell`](https://github.com/gogbg/psdaych2024)| Georgi Ivanov | 15:00 - 15:45 | EN |
 | [`Générer des rapports design avec PSHTML`](fr/StephaneVanGulick/Introduction%20a%20PSHTML)| Stephane van Gulick | 15:00 - 15:45 | FR |
